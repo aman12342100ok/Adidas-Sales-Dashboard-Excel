@@ -1,4 +1,4 @@
-📊 Sales Performance Analysis Dashboard (Excel)
+# 📊 Sales Performance Analysis Dashboard (Excel)
 
 1. 📌 Summary
 This project presents an interactive Sales Performance Dashboard built in Excel to analyze revenue, units sold, operating profit, product performance, retailer performance, and regional sales distribution. The dashboard converts raw sales data into meaningful business insights using KPI-driven reporting and dynamic filtering.
@@ -45,3 +45,7 @@ Dynamic filtering enables flexible and real-time performance tracking
 This dashboard showcases how Excel can be used as a powerful business intelligence tool for performance monitoring and strategic analysis.
 
 📸 Dashboard Preview
+![Sales Dashboard - Overview](https://github.com/aman12342100ok/Adidas-Sales-Dashboard-/raw/main/Dashboard%20Preview.png)
+
+![Sales Dashboard - Maps & 3D View](https://github.com/aman12342100ok/Adidas-Sales-Dashboard-/raw/main/Dashboard%20Preview%20b.png)
+
