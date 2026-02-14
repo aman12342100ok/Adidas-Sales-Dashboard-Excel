@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analysis Dashboard (Excel)
+# 📊 Adidas Sales Dashboard (Excel)
 
 1. 📌 Summary: 
 This project presents an interactive Sales Performance Dashboard built in Excel to analyze revenue, units sold, operating profit, product performance, retailer performance, and regional sales distribution. The dashboard converts raw sales data into meaningful business insights using KPI-driven reporting and dynamic filtering.
